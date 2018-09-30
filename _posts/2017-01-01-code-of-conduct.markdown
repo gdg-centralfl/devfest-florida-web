@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Code of Conduct"
-date:   2017-01-01 13:30:47 -0400
+title: 'Code of Conduct'
+date: 2017-01-01 13:30:47 -0400
 categories: blog
 img: 'img/posts/code-of-conduct.jpg'
 ---
@@ -105,7 +105,7 @@ experience anything different please contact
 <a href="/organizers/" style="text-transform: uppercase">the organizers.</a>
 
 ### Contact info
+
 - Organizers [organizers@devfestflorida.org](mailto:organizers@devfestflorida.org)
-- Hendrix Tavarez [hendrix@gdgcentralflorida.com](mailto:hendrix@gdgcentralflorida.com)
-<br><br>
-At the event please come and find an organizer to help out with any issues.
+  <br><br>
+  At the event please come and find an organizer to help out with any issues.

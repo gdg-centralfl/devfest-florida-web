@@ -157,18 +157,6 @@ hr {
   padding: 0;
 }
 
-#main-section {
-  background: url(../images/traversoft-main.png) no-repeat center center fixed;
-  display: table;
-  height: 100%;
-  position: relative;
-  width: 100%;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 #mobile-dev-description {
 	margin-top: 15%;
 }
@@ -321,17 +309,6 @@ a.android:hover
 
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-	#main-section {
-	  background: url(../images/traversoft-main.png) no-repeat center center;
-	  display: table;
-	  height: 400px;
-	  position: relative;
-	  width: 100%;
-	  -webkit-background-size: cover;
-	  -moz-background-size: cover;
-	  -o-background-size: cover;
-	  background-size: cover;
-	}
 	.fa {
 		font-size: 60px;
 		text-align: center;

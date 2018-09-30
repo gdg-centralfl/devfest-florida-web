@@ -1,208 +1,349 @@
--
-  id: 1
-  name: "Angel Banks"
-  rockstar: false
+- id: 1
+  name: 'Emily Fortuna'
+  rockstar: true
   gde: false
-  thumbnailUrl: "/img/people/angel_banks.jpg"
-  company: "First Data"
-  companyUrl: "img/partners/first_data.svg"
+  thumbnailUrl: '/img/people/emily_fortuna.jpg'
+  company: 'Google'
+  companyUrl: 'img/logos/google.svg'
   social:
-    - {name: "twitter", link: "https://twitter.com/angelmbanks"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/angelmbanks/"}
-    - {name: "blog", link: "http://angelbanks.com/"}
-  complexity: "Intermediate"
-  shortBio: "Angel Banks specializes in UX strategy and design for enterprise, finance, healthcare, and biotech applications. She has a background in front-end development, project management, and product management. Active in the Atlanta tech community, she is a Director of Women Who Code Atlanta, Women Techmakers Atlanta Lead, and co-organizer of GDG Atlanta co-organizer."
-  bio: "Angel Banks specializes in UX strategy and design for enterprise, finance, healthcare, and biotech applications. She has a background in front-end development, project management, and product management. Active in the Atlanta tech community, she is a Director of Women Who Code Atlanta, Women Techmakers Atlanta Lead, and co-organizer of GDG Atlanta co-organizer. She is also a conference-organizer for We RISE Tech and DevFest Atlanta."
+    - { name: 'twitter', link: 'http://www.twitter.com/bouncingsheep' }
+    - {
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/emily-fortuna-30a201b9/',
+      }
+    - { name: 'github', link: 'https://github.com/efortuna' }
+  complexity: 'Intermediate'
+  shortBio: 'Emily Fortuna is a developer advocate on the Flutter team at Google. When not educating about the awesomeness of Flutter, she can be found working on improving fairness in machine learning or acting on the stage and screen. She is an avid member of the nerdy joke appreciation society.'
+  bio: 'Emily Fortuna is a developer advocate on the Flutter team at Google. When not educating about the awesomeness of Flutter, she can be found working on improving fairness in machine learning or acting on the stage and screen. She is an avid member of the nerdy joke appreciation society.'
 
--
-  id: 5
-  name: "Emily Fortuna"
-  rockstar: false
-  gde: false
-  thumbnailUrl: "/img/people/emily_fortuna.jpg"
-  company: "Google"
-  companyUrl: "img/partners/google-logo.svg"
-  social:
-    - {name: "twitter", link: "http://www.twitter.com/bouncingsheep"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/emily-fortuna-30a201b9/"}
-    - {name: "github", link: "https://github.com/efortuna"}
-  complexity: "Intermediate"
-  shortBio: "Emily Fortuna is a developer advocate on the Flutter team at Google. When not educating about the awesomeness of Flutter, she can be found working on improving fairness in machine learning or acting on the stage and screen. She is an avid member of the nerdy joke appreciation society."
-  bio: "Emily Fortuna is a developer advocate on the Flutter team at Google. When not educating about the awesomeness of Flutter, she can be found working on improving fairness in machine learning or acting on the stage and screen. She is an avid member of the nerdy joke appreciation society."
-
--
-  id: 6
-  name: "Etienne Caron-Petit-Pas"
+- id: 2
+  name: 'Etienne Caron-Petit-Pas'
   rockstar: false
   gde: true
   slides: 38904028
-  thumbnailUrl: "/img/people/etienne_caron.jpg"
-  company: "Shopify"
-  companyUrl: "img/logos/shopify.png"
+  thumbnailUrl: '/img/people/etienne_caron.jpg'
+  company: 'Shopify'
+  companyUrl: 'img/logos/shopify.png'
   tags:
-    - { "name" : "virtual reality" }
-    - { "name" : "android" }
+    - { 'name': 'virtual reality' }
+    - { 'name': 'android' }
   social:
-    - {name: "twitter", link: "https://twitter.com/kanawish"}
-    - {name: "github", link: "https://github.com/kanawish"}
-  complexity: "Intermediate"
+    - { name: 'twitter', link: 'https://twitter.com/kanawish' }
+    - { name: 'github', link: 'https://github.com/kanawish' }
+  complexity: 'Intermediate'
   shortBio: "Etienne Caron is an Android developer at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\n\n3D animation, procedural content generation and VR are some of his hobbies, and he loves introducing other developers to this fascinating field."
   bio: "Etienne Caron is an Android developer at Shopify, a popular Canadian e-commerce company. He is also part of Google's Developer Expert program, and an instructor for Caster.io\n\n3D animation, procedural content generation and VR are some of his hobbies, and he loves introducing other developers to this fascinating field."
 
--
-  id: 9
-  name: "Jerrell Mardis"
+- id: 3
+  name: 'Jerrell Mardis'
   rockstar: false
   gde: true
-  thumbnailUrl: "/img/people/jerrell_mardis.jpg"
-  company: "Salesforce"
-  companyUrl: "img/partners/salesforce.jpg"
+  thumbnailUrl: '/img/people/jerrell_mardis.jpg'
+  company: 'Salesforce'
+  companyUrl: 'img/logos/salesforce.jpg'
   social:
-    - {name: "twitter", link: "http://twitter.com/jerrellmardis"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jerrellmardis/"}
-  complexity: "Beginner"
+    - { name: 'twitter', link: 'http://twitter.com/jerrellmardis' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/jerrellmardis/' }
+  complexity: 'Beginner'
   shortBio: "Jerrell is an Android developer and co-organizer for Google Developer Group Chicago West. He's been developing apps for Android since Android 2.0 and is passionate about building beautiful and functional Android apps that exceed users' expectations."
   bio: "Jerrell is an Android developer and co-organizer for Google Developer Group Chicago West. He's been developing apps for Android since Android 2.0 and is passionate about building beautiful and functional Android apps that exceed users' expectations."
 
--
-  id: 10
-  name: "Joey deVilla"
+- id: 4
+  name: 'Joey deVilla'
   rockstar: false
   gde: false
-  thumbnailUrl: "/img/people/joey_devilla.jpg"
-  company: "Sourcetoad"
-  companyUrl: "img/partners/sourcetoad.svg"
+  thumbnailUrl: '/img/people/joey_devilla.jpg'
+  company: 'Sourcetoad'
+  companyUrl: 'img/logos/sourcetoad.svg'
   social:
-    - {name: "twitter", link: "https://twitter.com/accordionguy"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/joeydevilla"}
-    - {name: "blog", link: "http://globalnerdy.com"}
-  complexity: "Beginner"
-  shortBio: "Joey deVilla is the Lead Product Manager at Sourcetoad, a development shop in Tampa, and an author on the Android Team at the tutorial site RayWenderlich.com. In former lives, he’s been a platform evangelist at SMARTRAC, GSG Telco, and Shopify."
-  bio: "Joey deVilla is the Lead Product Manager at Sourcetoad, a development shop in Tampa, and an author on the Android Team at the tutorial site RayWenderlich.com. In former lives, he’s been a platform evangelist at SMARTRAC, GSG Telco, and Shopify. He was also at Microsoft, where he was a Windows Phone Champ, and tried in vain to make Windows Phone happen. In his spare time, Joey wreaks havoc on karaoke bars with his rock and roll accordion performances."
+    - { name: 'twitter', link: 'https://twitter.com/accordionguy' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/joeydevilla' }
+    - { name: 'blog', link: 'http://globalnerdy.com' }
+  complexity: 'Beginner'
+  shortBio: 'Joey deVilla is the Lead Product Manager at Sourcetoad, a development shop in Tampa, and an author on the Android Team at the tutorial site RayWenderlich.com. In former lives, he’s been a platform evangelist at SMARTRAC, GSG Telco, and Shopify.'
+  bio: 'Joey deVilla is the Lead Product Manager at Sourcetoad, a development shop in Tampa, and an author on the Android Team at the tutorial site RayWenderlich.com. In former lives, he’s been a platform evangelist at SMARTRAC, GSG Telco, and Shopify. He was also at Microsoft, where he was a Windows Phone Champ, and tried in vain to make Windows Phone happen. In his spare time, Joey wreaks havoc on karaoke bars with his rock and roll accordion performances.'
 
--
-  id: 9.1
-  name: "Lara Martin"
+- id: 5
+  name: 'Lara Martin'
   rockstar: false
-  gde: true
-  thumbnailUrl: "/img/people/lara_martin.jpg"
-  company: "Babbel"
-  companyUrl: "img/partners/babbel.svg"
+  gde: false
+  thumbnailUrl: '/img/people/lara_martin.jpg'
+  company: 'Babbel'
+  companyUrl: 'img/logos/babbel.svg'
   social:
-    - {name: "twitter", link: "https://twitter.com/lariki"}
-    - {name: "blog", link: "http://laramartin.eu/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/laramartincarretero/"}
-    - {name: "github", link: "https://github.com/laramartin"}
-  
-  complexity: "Intermediate"
+    - { name: 'twitter', link: 'https://twitter.com/lariki' }
+    - { name: 'blog', link: 'http://laramartin.eu/' }
+    - {
+        name: 'linkedin',
+        link: 'https://www.linkedin.com/in/laramartincarretero/',
+      }
+    - { name: 'github', link: 'https://github.com/laramartin' }
+
+  complexity: 'Intermediate'
   shortBio: "Lara Martin is a self-made Android developer based in Berlin. Her passion for Android made her transition from her background in science to software development. When she's not attending a tech meetup, you will find her playing videogames."
   bio: "Lara Martin is a self-made Android developer based in Berlin. Her passion for Android made her transition from her background in science to software development. When she's not attending a tech meetup, you will find her playing videogames."
 
--
-  id: 12
-  name: "Loiane Groner"
+- id: 6
+  name: 'Loiane Groner'
   rockstar: false
   gde: true
-  thumbnailUrl: "/img/people/loiane_groner.jpg"
-  company: "loiane.training | Citibank"
-  companyUrl: "img/partners/citibank.png"
+  thumbnailUrl: '/img/people/loiane_groner.jpg'
+  company: 'loiane.training | Citibank'
+  companyUrl: 'img/logos/citibank.png'
   social:
-    - {name: "twitter", link: "https://twitter.com/loiane"}
-    - {name: "blog", link: "https://loiane.com/"}
-    - {name: "googleplus", link: "https://plus.google.com/100748288975286518456"}
-    
-  complexity: "Intermediate"
-  shortBio: "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Web Technologies and Oracle Developer Champion."
-  bio: "Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Web Technologies and Oracle Developer Champion. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training."
+    - { name: 'twitter', link: 'https://twitter.com/loiane' }
+    - { name: 'blog', link: 'https://loiane.com/' }
+    - {
+        name: 'googleplus',
+        link: 'https://plus.google.com/100748288975286518456',
+      }
 
--
-  id: 15
-  name: "Michele Cynowicz"
+  complexity: 'Intermediate'
+  shortBio: 'Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Web Technologies and Oracle Developer Champion.'
+  bio: 'Loiane Groner has been working with software development for 10+ years and is currently working as business analyst and senior Java/HTML5/JavaScript developer at an american financial institution. Loiane has authored books for Packt Publishing, is a Google Developer Expert in Web/Angular, Microsoft MVP in Web Technologies and Oracle Developer Champion. In her spare time, she publishes articles at her blog https://loiane.com and video tutorials at https://loiane.training.'
+
+- id: 7
+  name: 'Angel Banks'
   rockstar: false
   gde: false
-  thumbnailUrl: "/img/people/michele_cynowicz.jpg"
-  company: "Vox Media, Inc"
-  companyUrl: "img/partners/vox_media.png"
+  thumbnailUrl: '/img/people/angel_banks.jpg'
+  company: 'First Data'
+  companyUrl: 'img/logos/first_data.svg'
   social:
-    - {name: "twitter", link: "http://www.twitter.com/michelecynowicz"}
-    - {name: "linkedin", link: "http://linkedin.com/in/michelecynowicz"}
-    - {name: "blog", link: "http://cynowicz.com/"}
-    
-  complexity: "Intermediate"
-  shortBio: "Michele is an in-house Front-End Engineer for Vox Media, building innovative software solutions enjoyed by the millions of fans of websites such as Polygon, The Verge, Recode.net, SBNation, Eater, Vox and more."
-  bio: "Michele is an in-house Front-End Engineer for Vox Media, building innovative software solutions enjoyed by the millions of fans of websites such as Polygon, The Verge, Recode.net, SBNation, Eater, Vox and more."
+    - { name: 'twitter', link: 'https://twitter.com/angelmbanks' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/angelmbanks/' }
+    - { name: 'blog', link: 'http://angelbanks.com/' }
+  complexity: 'Intermediate'
+  shortBio: 'Angel Banks specializes in UX strategy and design for enterprise, finance, healthcare, and biotech applications. She has a background in front-end development, project management, and product management. Active in the Atlanta tech community, she is a Director of Women Who Code Atlanta, Women Techmakers Atlanta Lead, and co-organizer of GDG Atlanta co-organizer.'
+  bio: 'Angel Banks specializes in UX strategy and design for enterprise, finance, healthcare, and biotech applications. She has a background in front-end development, project management, and product management. Active in the Atlanta tech community, she is a Director of Women Who Code Atlanta, Women Techmakers Atlanta Lead, and co-organizer of GDG Atlanta co-organizer. She is also a conference-organizer for We RISE Tech and DevFest Atlanta.'
 
+- id: 8
+  name: 'Michele Cynowicz'
+  rockstar: false
+  gde: false
+  thumbnailUrl: '/img/people/michele_cynowicz.jpg'
+  company: 'Vox Media, Inc'
+  companyUrl: 'img/logos/vox_media.png'
+  social:
+    - { name: 'twitter', link: 'http://www.twitter.com/michelecynowicz' }
+    - { name: 'linkedin', link: 'http://linkedin.com/in/michelecynowicz' }
+    - { name: 'blog', link: 'http://cynowicz.com/' }
 
+  complexity: 'Intermediate'
+  shortBio: 'Michele is an in-house Front-End Engineer for Vox Media, building innovative software solutions enjoyed by the millions of fans of websites such as Polygon, The Verge, Recode.net, SBNation, Eater, Vox and more.'
+  bio: 'Michele is an in-house Front-End Engineer for Vox Media, building innovative software solutions enjoyed by the millions of fans of websites such as Polygon, The Verge, Recode.net, SBNation, Eater, Vox and more.'
 
--
-  id: 17
-  name: "Paul Trebilcox-Ruiz"
+- id: 9
+  name: 'Paul Trebilcox-Ruiz'
   rockstar: false
   gde: true
-  thumbnailUrl: "/img/people/paul_trebilcox_ruiz.jpg"
-  company: ""
-  companyUrl: "img/partners/"
+  thumbnailUrl: '/img/people/paul_trebilcox_ruiz.jpg'
+  company: ''
+  companyUrl: 'img/logos/'
   social:
-    - {name: "twitter", link: "https://twitter.com/PaulTR88"}
-    - {name: "googleplus", link: "https://plus.google.com/+PaulTrebilcoxRuiz"}
+    - { name: 'twitter', link: 'https://twitter.com/PaulTR88' }
+    - { name: 'googleplus', link: 'https://plus.google.com/+PaulTrebilcoxRuiz' }
 
-  complexity: "Intermediate"
+  complexity: 'Intermediate'
   shortBio: "Paul is an Android developer, published tech author, and IoT Google Developer Expert out of Boulder, Colorado. In addition, he is a co-organizer of the Boulder Android Meetup and writes online tutorials for Envato's Tuts+ and on Medium. His interests are in wearables, connected devices and emerging technologies."
   bio: "Paul is an Android developer, published tech author, and IoT Google Developer Expert out of Boulder, Colorado. In addition, he is a co-organizer of the Boulder Android Meetup and writes online tutorials for Envato's Tuts+ and on Medium. His interests are in wearables, connected devices and emerging technologies."
 
-
--
-  id: 18
-  name: "Santosh Hari"
+- id: 10
+  name: 'Santosh Hari'
   rockstar: false
   gde: false
   slides: 18
-  thumbnailUrl: "/img/people/santosh_hari.jpg"
-  company: "Nebbia Technology"
-  companyUrl: "img/partners/nebbia.png"
+  thumbnailUrl: '/img/people/santosh_hari.jpg'
+  company: 'Nebbia Technology'
+  companyUrl: 'img/logos/nebbia.png'
   social:
-    - {name: "twitter", link: "http://www.twitter.com/_s_hari"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/santoshhari/"}
-    - {name: "blog", link: "https://santoshhari.wordpress.com"}
+    - { name: 'twitter', link: 'http://www.twitter.com/_s_hari' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/santoshhari/' }
+    - { name: 'blog', link: 'https://santoshhari.wordpress.com' }
 
+  complexity: 'Intermediate'
+  shortBio: 'Santosh is a Microsoft Azure MVP and a public speaker who has spoken at tech events including codecamps and regional/international conferences. He is an Azure Consultant @ Nebbia Tech and brings 20 years of experience in the software industry. Before Nebbia, he was involved with tech startups, where he architected greenfield applications providing services in nearly a dozen countries.'
+  bio: 'Santosh is a Microsoft Azure MVP and a public speaker who has spoken at tech events including codecamps and regional/international conferences. He is an Azure Consultant @ Nebbia Tech and brings 20 years of experience in the software industry. Before Nebbia, he was involved with tech startups, where he architected greenfield applications providing services in nearly a dozen countries by leveraging the cloud. He has co-authored multiple approved software patents. Santosh is deeply involved with the local community as leader of the Orlando .NET User Group and co-organizer of the Orlando Codecamp. He also runs a boutique software consulting company with his wife.'
+
+- id: 11
+  name: 'Stacy Devino'
+  rockstar: false
+  gde: false
+  thumbnailUrl: '/img/people/stacy_devino.jpg'
+  company: 'Nike s23NYC Labs'
+  companyUrl: 'img/logos/s23nyc.png'
+  social:
+    - { name: 'twitter', link: 'http://www.twitter.com/Doesitpew' }
+    - { name: 'linkedin', link: 'http://linkedin.com/in/stacy-devino-40ba6815' }
+    - { name: 'blog', link: 'http://Stacydevino.com' }
+    - {
+        name: 'googleplus',
+        link: 'https://plus.google.com/114180993611650820482',
+      }
+
+  complexity: 'Intermediate'
+  shortBio: 'Stacy is a Google Developer Expert for Android, Intel Innovator, Google Developer Group Mentor, and WTM Lead. She has worked on Android Applications down to the whole Android OS and even developed IoT appliances from the ground up which are in use by companies like Apple and Amazon and has work featured on Wired, Gizmodo, and Geek.com.'
+  bio: 'Stacy is a Google Developer Expert for Android, Intel Innovator, Google Developer Group Mentor, and WTM Lead. She has worked on Android Applications down to the whole Android OS and even developed IoT appliances from the ground up which are in use by companies like Apple and Amazon and has work featured on Wired, Gizmodo, and Geek.com. Apps she has built have tens of millions of active users and developed cloud solutions at scale. She currently works for Nike s23NYC Labs doing Android apps like the SNKRS,focused on delivering exceptional customer mobile experiences through rich media, geo-synced content, and augmented reality.'
+
+- id: 12
+  name: 'Vikram Tiwari'
+  rockstar: false
+  gde: true
+  thumbnailUrl: '/img/people/vikram_tiwari.jpg'
+  company: 'Omni Labs, Inc.'
+  companyUrl: 'img/logos/omni_labs.png'
+  social:
+    - { name: 'twitter', link: 'http://www.twitter.com/Vikram_Tiwari' }
+    - { name: 'linkedin', link: 'https://www.linkedin.com/in/vikramtiwari/' }
+    - { name: 'blog', link: 'http://medium.com/@vikramtiwari' }
+
+  complexity: 'Intermediate'
+  shortBio: 'Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud'
+  bio: 'Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud'
+
+- id: 13
+  name: 'Aygul Zagidullina'
+  rockstar: true
+  gde: true
+  thumbnailUrl: '../img/people/aygul_zagidullina.jpg'
+  company: 'GDG & WTM London'
+  companyUrl: 'img/logos/motaworld.jpg'
+  social:
+    - { name: 'twitter', link: 'http://twitter.com/aygul' }
+    - { name: 'blog', link: 'https://medium.com/@aygul' }
+  complexity: 'Intermediate'
+  shortBio: 'Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.'
+  bio: 'Dr. Aygul Zagidullina is a passionate Actions on Google developer. Her work experience includes Google, Todoist, MotaWord. She holds a PhD in quantum chemistry and prior to Google dedicated 6 years to scientific research at the University of Stuttgart. Aygul is a very active member of the London digital ecosystem and has been involved in many innovative projects. She is a Google Developer Group (GDG)/ Women Techmakers (WTM) London lead, Google Top Contributor (TC)/ Trusted Tester (TT), and UK STEM Ambassador. Aygul has been a distinguished speaker at numerous international industry events in the US (at Google HQ), UK, Germany, Ireland, UAE, Greece, Turkey, Poland, Georgia, and Russia. She was named as one of The NEXT 100 Top Influencers of the European Digital Industry in 2013.'
+
+- id: 14
+  name: 'Chris Lorenzo'
+  rockstar: false
+  gde: false
+  thumbnailUrl: '../img/people/chris_lorenzo.jpg'
+  company: 'Comcast'
+  companyUrl: 'img/logos/comcast.png'
+  social:
+    - { name: 'twitter', link: 'chiefcll' }
+    - { name: 'blog', link: 'https://www.chiefhacker.com/' }
+  complexity: 'Beginner'
+  shortBio: 'Chris has worked at Comcast since 2007 -- currently as a Distinguished Engineer. He enjoys building/motivating teams and ramping up new projects including XFINITY Home and XFINITY xFi using the latest patterns and web primitives. Besides coding in Javascript, he loves spending time with his wife and two children and helping out in the community.'
+  bio: 'Chris has worked at Comcast since 2007 -- currently as a Distinguished Engineer. He enjoys building/motivating teams and ramping up new projects including XFINITY Home and XFINITY xFi using the latest patterns and web primitives. Besides coding in Javascript, he loves spending time with his wife and two children and helping out in the community.'
+
+- id: 15
+  name: "Christi Kapp"
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/christi_kapp.png"
+  company: "DataPsy, Inc"
+  companyUrl: "img/logos/datapsy.png"
+  social:
+    - {name: "blog", link: "http://datapsy.com/news"}
+  complexity: "Beginner"
+  shortBio: "Christi Kapp is a well-respected Management Consultant and Coach that has spoken at numerous professional conferences on topics ranging from business analysis, to managing organizational change.
+Christi's career has included management consulting, executive leadership, coaching and teaching in the hospitality, training and technology industries.  She has also managed performance, as well as the professional development of staff engaged in development and delivery of complex information system solutions, solution sales, training, and customer service.
+Her entrepreneurial background includes founding, growing and selling TechKnowQuest, Inc  one of the Orlando Area's Fastest Growing Tech Companies in 1998 (1992 � 2000). While at TechKnowQuest, she created custom courses for a number of clients and performed management consulting services.   She has also performed coaching and consulting services through KnowledgeSpot, Inc, (2000 � 2007) and JustIntegration, Inc. (founded in 2006).  She was also co-founder of Art In Motion LLC Custom Motorcycles (founded in 2007), and is Owner/Innkeeper at Kapp and Kappy Bed & Breakfast (2016)
+She is an accomplished author also.  She has written several enterprise information technology books (Prentice-Hall), a UCF Master's thesis on �Regional Readiness for Homeland Security Information Sharing�, and in 2016, wrote a book chapter titled �Soft Factors Enabling Innovation� in the Apple Academic Press series called Ecosystems and Technology: Idea Generation and Content Model Processing.
+She has a B.S. Degree from the University of Rochester and a M.S. from the College of Health & Public Affairs at the University of Central Florida.
+She is active in her local community, doing some volunteer work for Camp Ohana (edutainment for homeless kids), serving on the City of Kissimmee Historic Preservation Board and serving on the board for the NAF Academy for Hospitality and Tourism at Osceola High School in Kissimmee.  Her sculptures can be found in outdoor locations as well as the HOPE shelter in Kissimmee ."
+  bio: "Christi Kapp is a well-respected Management Consultant and Coach that has spoken at numerous professional conferences on topics ranging from business analysis, to managing organizational change.
+Christi's career has included management consulting, executive leadership, coaching and teaching in the hospitality, training and technology industries.  She has also managed performance, as well as the professional development of staff engaged in development and delivery of complex information system solutions, solution sales, training, and customer service.
+Her entrepreneurial background includes founding, growing and selling TechKnowQuest, Inc  one of the Orlando Area's Fastest Growing Tech Companies in 1998 (1992 � 2000). While at TechKnowQuest, she created custom courses for a number of clients and performed management consulting services.   She has also performed coaching and consulting services through KnowledgeSpot, Inc, (2000 � 2007) and JustIntegration, Inc. (founded in 2006).  She was also co-founder of Art In Motion LLC Custom Motorcycles (founded in 2007), and is Owner/Innkeeper at Kapp and Kappy Bed & Breakfast (2016)
+She is an accomplished author also.  She has written several enterprise information technology books (Prentice-Hall), a UCF Master's thesis on �Regional Readiness for Homeland Security Information Sharing�, and in 2016, wrote a book chapter titled �Soft Factors Enabling Innovation� in the Apple Academic Press series called Ecosystems and Technology: Idea Generation and Content Model Processing.
+She has a B.S. Degree from the University of Rochester and a M.S. from the College of Health & Public Affairs at the University of Central Florida.
+She is active in her local community, doing some volunteer work for Camp Ohana (edutainment for homeless kids), serving on the City of Kissimmee Historic Preservation Board and serving on the board for the NAF Academy for Hospitality and Tourism at Osceola High School in Kissimmee.  Her sculptures can be found in outdoor locations as well as the HOPE shelter in Kissimmee ."
+
+-
+  id: 16
+  name: "Connor Tumbleson"
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/connor_tumbleson.jpg"
+  company: "Sourcetoad"
+  companyUrl: "img/logos/sourcetoad.svg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/iBotPeaches"}
+    - {name: "blog", link: "https://connortumbleson.com/"}
   complexity: "Intermediate"
-  shortBio: "Santosh is a Microsoft Azure MVP and a public speaker who has spoken at tech events including codecamps and regional/international conferences. He is an Azure Consultant @ Nebbia Tech and brings 20 years of experience in the software industry. Before Nebbia, he was involved with tech startups, where he architected greenfield applications providing services in nearly a dozen countries."
-  bio: "Santosh is a Microsoft Azure MVP and a public speaker who has spoken at tech events including codecamps and regional/international conferences. He is an Azure Consultant @ Nebbia Tech and brings 20 years of experience in the software industry. Before Nebbia, he was involved with tech startups, where he architected greenfield applications providing services in nearly a dozen countries by leveraging the cloud. He has co-authored multiple approved software patents. Santosh is deeply involved with the local community as leader of the Orlando .NET User Group and co-organizer of the Orlando Codecamp. He also runs a boutique software consulting company with his wife."
+  shortBio: "Connor is a software engineer at Sourcetoad, building software that powers the cruise ship industry, keeping things safe in the middle of the ocean. In his free time, he is a big supporter of open-source projects and maintains apktool, a popular Android reverse engineering tool."
+  bio: "Connor is a software engineer at Sourcetoad, building software that powers the cruise ship industry, keeping things safe in the middle of the ocean. In his free time, he is a big supporter of open-source projects and maintains apktool, a popular Android reverse engineering tool."
 
+-
+  id: 17
+  name: "Jared Porcenaluk"
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/jared_porcenaluk.jpg"
+  company: "Nebbia Technology"
+  companyUrl: "img/logos/nebbia.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/jporcenaluk"}
+    - {name: "blog", link: "https://jaredporcenaluk.com/blog/"}
+  complexity: "Beginner"
+  shortBio: "Jared is the organizer of Orlando IoT and a full-stack developer at Nebbia Technology. As the Orlando IoT organizer for the past two years, he's helped connect people who connect things by organizing a monthly meetup. As a software developer at Nebbia, his mission is to make software projects be more successful by leveraging DevOps and the cloud."
+  bio: "Jared is the organizer of Orlando IoT and a full-stack developer at Nebbia Technology. As the Orlando IoT organizer for the past two years, he's helped connect people who connect things by organizing a monthly meetup. As a software developer at Nebbia, his mission is to make software projects be more successful by leveraging DevOps and the cloud."
 
+-
+  id: 18
+  name: "Mary Grygleski"
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/mary_grygleski.jpg"
+  company: "IBM"
+  companyUrl: "img/logos/ibm.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/mgrygles"}
+  complexity: "Beginner"
+  shortBio: "Mary is currently a Java Developer Advocate for IBM's Digital Business Group, specializing in Reactive Java systems. She has been riding the software tech waves since 1989, starting with Unix and C, then set sail for Java, open source, and web in the new Millennium, and now venturing into reactive, mobile, and the DevOps space. In her previous incarnations, she worked for several technology product companies in the Route 128 Boston Technology Corridor as well the San Francisco Bay Area. She now resides in the Greater Chicago area, and is an Executive Board member and the Director of Meetings for the Chicago Java Users Group (CJUG). Mary continues to be amazed by how software innovations can dramatically transform our lives. She can't wait to see what the next tech wave will be like."
+  bio: "Mary is currently a Java Developer Advocate for IBM's Digital Business Group, specializing in Reactive Java systems. She has been riding the software tech waves since 1989, starting with Unix and C, then set sail for Java, open source, and web in the new Millennium, and now venturing into reactive, mobile, and the DevOps space. In her previous incarnations, she worked for several technology product companies in the Route 128 Boston Technology Corridor as well the San Francisco Bay Area. She now resides in the Greater Chicago area, and is an Executive Board member and the Director of Meetings for the Chicago Java Users Group (CJUG). Mary continues to be amazed by how software innovations can dramatically transform our lives. She can't wait to see what the next tech wave will be like."
+
+- id: 19
+  name: "Michael Prentice"
+  rockstar: false
+  gde: true
+  thumbnailUrl: "../img/people/michael_prentice.jpg"
+  company: "DevIntent"
+  companyUrl: "img/partners/devintent.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/splaktar"}
+  tags:
+    - { "name" : "angular" }
+    - { "name" : "firebase" }
+    - { "name" : "web" }
+    - { "name" : "community" }
+  badges:
+    - {"name": "GDG", "description": "GDG Space Coast", "link": "http://gdgspacecoast.org" }
+  complexity: "Intermediate"
+  shortBio: "Michael Prentice is a software consultant on Angular, Material Design, Firebase, Google Cloud, NodeJS, software architecture, and Agile project management. He is a founder of GDG Space Coast, DevIntent, and Market Amplified. Michael is a Google Developer Expert (GDE) in Angular and active supporter of multiple developer communities."
+  bio: "Michael Prentice is a software consultant on Angular, Material Design, Firebase, Google Cloud, NodeJS, software architecture, and Agile project management. He is a founder of GDG Space Coast, DevIntent, and Market Amplified. Michael is a Google Developer Expert (GDE) in Angular and active supporter of multiple developer communities."
 
 -
   id: 20
-  name: "Stacy Devino"
-  rockstar: false
+  name: "John Papa"
+  rockstar: true
   gde: false
-  thumbnailUrl: "/img/people/stacy_devino.jpg"
-  company: "Nike s23NYC Labs"
-  companyUrl: "img/partners/s23nyc.png"
+  thumbnailUrl: "../img/people/john_papa.jpg"
+  company: "Microsoft"
+  companyUrl: "img/logos/microsoft.png"
   social:
-    - {name: "twitter", link: "http://www.twitter.com/Doesitpew"}
-    - {name: "linkedin", link: "http://linkedin.com/in/stacy-devino-40ba6815"}
-    - {name: "blog", link: "http://Stacydevino.com"}
-    - {name: "googleplus", link: "https://plus.google.com/114180993611650820482"}
-    
+    - {name: "twitter", link: "https://twitter.com/john_papa"}
+    - {name: "github", link: "https://gist.github.com/johnpapa"}
+    - {name: "blog", link: "http://johnpapa.net"}
   complexity: "Intermediate"
-  shortBio: "Stacy is a Google Developer Expert for Android, Intel Innovator, Google Developer Group Mentor, and WTM Lead. She has worked on Android Applications down to the whole Android OS and even developed IoT appliances from the ground up which are in use by companies like Apple and Amazon and has work featured on Wired, Gizmodo, and Geek.com."
-  bio: "Stacy is a Google Developer Expert for Android, Intel Innovator, Google Developer Group Mentor, and WTM Lead. She has worked on Android Applications down to the whole Android OS and even developed IoT appliances from the ground up which are in use by companies like Apple and Amazon and has work featured on Wired, Gizmodo, and Geek.com. Apps she has built have tens of millions of active users and developed cloud solutions at scale. She currently works for Nike s23NYC Labs doing Android apps like the SNKRS,focused on delivering exceptional customer mobile experiences through rich media, geo-synced content, and augmented reality."
-
+  shortBio: "John Papa is dedicated a father and husband, a Principal Developer Advocate with Microsoft, and an alumni of the Google Developer Expert, Microsoft RD and MVP programs. His passions are deploying and teaching modern web technologies, and enjoying everything Disney with his family. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, and many popular Pluralsight courses."
+  bio: "John Papa is a Principal Developer Advocate with Microsoft and an alumni of the Google Developer Expert, Microsoft Regional Director, and MVP programs. He's passionate about Web and mobile technologies and often enjoys speaking around the world at keynotes and sessions for conferences including NgConf, Build, Ignite, VSLive and AngleBrackets. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, several books, and many popular Pluralsight courses.\n\nYou can reach me at johnpapa.net or on twitter at @john_papa."
 
 -
   id: 21
-  name: "Vikram Tiwari"
+  name: "Nitya Narasimhan"
+  keynote: true
   rockstar: false
-  gde: true
-  thumbnailUrl: "/img/people/vikram_tiwari.jpg"
-  company: "Omni Labs, Inc."
-  companyUrl: "img/partners/omni_labs.png"
+  gde: false
+  thumbnailUrl: "../img/people/nitya_narasimhan.jpg"
+  company: "GDG NYC  / BitNBot (new)"
+  companyUrl: "img/logos/logo-gdgnyc.png"
   social:
-    - {name: "twitter", link: "http://www.twitter.com/Vikram_Tiwari"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/vikramtiwari/"}
-    - {name: "blog", link: "http://medium.com/@vikramtiwari"}
-
+    - {name: "twitter", link: "https://twitter.com/nitya"}
+    - {name: "blog", link: "https://medium.com/@nitya"}
   complexity: "Intermediate"
-  shortBio: "Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud"
-  bio: "Building scalable web and data platforms for high availability, resilience, and security. Co-founder, Tech @omnilabsinc #GDE @GoogleCloud"
+  shortBio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley)."
+  bio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley). She helps architect and build mobile web solutions for early stage startups, runs study camps for workforce retraining & plans to launch her first voice product this fall. She is a frequent tech conference speaker but is happiest talking to kids about science, coding, curiosity and self-confidence."

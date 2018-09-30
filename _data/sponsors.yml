@@ -1,0 +1,38 @@
+- group: 'Partner Sponsors'
+  elements:
+    - {
+        name: 'GDG',
+        description: 'Google Developer Groups',
+        link: 'https://developers.google.com/groups/',
+        imageUrl: 'gdg-logo-small.svg',
+      }
+- group: 'Gold Sponsors'
+  elements:
+    - {
+        name: 'Google',
+        description: 'Google',
+        link: 'https://developers.google.com/',
+        imageUrl: 'google-developers.svg',
+      }
+- group: 'Silver Sponsors'
+  elements:
+    - {
+        name: 'WTM',
+        description: 'Women Techmakers',
+        link: 'https://www.womentechmakers.com/',
+        imageUrl: 'wtm.svg',
+      }
+    - {
+        name: 'Capgemini',
+        description: 'Capgemini USA',
+        link: 'http://www.capgemini.com',
+        imageUrl: 'capgemini.svg',
+      }
+- group: 'Copper Sponsors'
+  elements:
+    - {
+        name: 'Mozilla',
+        description: 'Mozilla Corporations',
+        link: 'http://mozilla.org/',
+        imageUrl: 'mozilla.svg',
+      }
