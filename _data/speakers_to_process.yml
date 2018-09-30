@@ -140,39 +140,3 @@ Mike lives with his perfectly wonderful little daughter and two very bad dogs th
   complexity: "Beginner"
   shortBio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
   bio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
--
-  id: 28
-  name: "Michael Prentice"
-  rockstar: false
-  gde: false
-  slides: 28
-  thumbnailUrl: "../img/people/michael_prentice.jpg"
-  company: ""
-  companyUrl: "img/partners/"
-  social:
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
-    - {name: "blog", link: ""}
-    - {name: "googleplus", link: ""}
-    - {name: "github", link: ""}
-  complexity: ""
-  shortBio: ""
-  bio: ""
--
-  id: 29
-  name: "John Papa"
-  rockstar: false
-  gde: false
-  slides: 29
-  thumbnailUrl: "../img/people/john_papap.jpg"
-  company: ""
-  companyUrl: "img/partners/"
-  social:
-    - {name: "twitter", link: ""}
-    - {name: "linkedin", link: ""}
-    - {name: "blog", link: ""}
-    - {name: "googleplus", link: ""}
-    - {name: "github", link: ""}
-  complexity: ""
-  shortBio: ""
-  bio: ""

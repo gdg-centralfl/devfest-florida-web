@@ -296,3 +296,54 @@ She is active in her local community, doing some volunteer work for Camp Ohana (
   shortBio: "Mary is currently a Java Developer Advocate for IBM's Digital Business Group, specializing in Reactive Java systems. She has been riding the software tech waves since 1989, starting with Unix and C, then set sail for Java, open source, and web in the new Millennium, and now venturing into reactive, mobile, and the DevOps space. In her previous incarnations, she worked for several technology product companies in the Route 128 Boston Technology Corridor as well the San Francisco Bay Area. She now resides in the Greater Chicago area, and is an Executive Board member and the Director of Meetings for the Chicago Java Users Group (CJUG). Mary continues to be amazed by how software innovations can dramatically transform our lives. She can't wait to see what the next tech wave will be like."
   bio: "Mary is currently a Java Developer Advocate for IBM's Digital Business Group, specializing in Reactive Java systems. She has been riding the software tech waves since 1989, starting with Unix and C, then set sail for Java, open source, and web in the new Millennium, and now venturing into reactive, mobile, and the DevOps space. In her previous incarnations, she worked for several technology product companies in the Route 128 Boston Technology Corridor as well the San Francisco Bay Area. She now resides in the Greater Chicago area, and is an Executive Board member and the Director of Meetings for the Chicago Java Users Group (CJUG). Mary continues to be amazed by how software innovations can dramatically transform our lives. She can't wait to see what the next tech wave will be like."
 
+- id: 19
+  name: "Michael Prentice"
+  rockstar: false
+  gde: true
+  thumbnailUrl: "../img/people/michael_prentice.jpg"
+  company: "DevIntent"
+  companyUrl: "img/partners/devintent.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/splaktar"}
+  tags:
+    - { "name" : "angular" }
+    - { "name" : "firebase" }
+    - { "name" : "web" }
+    - { "name" : "community" }
+  badges:
+    - {"name": "GDG", "description": "GDG Space Coast", "link": "http://gdgspacecoast.org" }
+  complexity: "Intermediate"
+  shortBio: "Michael Prentice is a software consultant on Angular, Material Design, Firebase, Google Cloud, NodeJS, software architecture, and Agile project management. He is a founder of GDG Space Coast, DevIntent, and Market Amplified. Michael is a Google Developer Expert (GDE) in Angular and active supporter of multiple developer communities."
+  bio: "Michael Prentice is a software consultant on Angular, Material Design, Firebase, Google Cloud, NodeJS, software architecture, and Agile project management. He is a founder of GDG Space Coast, DevIntent, and Market Amplified. Michael is a Google Developer Expert (GDE) in Angular and active supporter of multiple developer communities."
+
+-
+  id: 20
+  name: "John Papa"
+  rockstar: true
+  gde: false
+  thumbnailUrl: "../img/people/john_papa.jpg"
+  company: "Microsoft"
+  companyUrl: "img/logos/microsoft.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/john_papa"}
+    - {name: "github", link: "https://gist.github.com/johnpapa"}
+    - {name: "blog", link: "http://johnpapa.net"}
+  complexity: "Intermediate"
+  shortBio: "John Papa is dedicated a father and husband, a Principal Developer Advocate with Microsoft, and an alumni of the Google Developer Expert, Microsoft RD and MVP programs. His passions are deploying and teaching modern web technologies, and enjoying everything Disney with his family. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, and many popular Pluralsight courses."
+  bio: "John Papa is a Principal Developer Advocate with Microsoft and an alumni of the Google Developer Expert, Microsoft Regional Director, and MVP programs. He's passionate about Web and mobile technologies and often enjoys speaking around the world at keynotes and sessions for conferences including NgConf, Build, Ignite, VSLive and AngleBrackets. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, several books, and many popular Pluralsight courses.\n\nYou can reach me at johnpapa.net or on twitter at @john_papa."
+
+-
+  id: 21
+  name: "Nitya Narasimhan"
+  keynote: true
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/nitya_narasimhan.jpg"
+  company: "GDG NYC  / BitNBot (new)"
+  companyUrl: "img/logos/logo-gdgnyc.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/nitya"}
+    - {name: "blog", link: "https://medium.com/@nitya"}
+  complexity: "Intermediate"
+  shortBio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley)."
+  bio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley). She helps architect and build mobile web solutions for early stage startups, runs study camps for workforce retraining & plans to launch her first voice product this fall. She is a frequent tech conference speaker but is happiest talking to kids about science, coding, curiosity and self-confidence."
