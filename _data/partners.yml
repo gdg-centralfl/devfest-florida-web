@@ -1,9 +1,14 @@
--
-  group: "Diamond sponsors"
+- group: 'Community Partners'
   elements:
-   - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/groups/", imageUrl: "google-developers.svg"}
--
-  group: "General sponsors"
-  elements:
-  - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google-developers.svg"}
-  - {name: "GDG", description: "Google Developer Groups", link: "https://developers.google.com/groups/", imageUrl: "gdg-logo-small.svg"}
+    - {
+        name: 'Flutter Developers Group',
+        description: 'Flutter Developers Group',
+        link: 'https://meetup.com/flutterdevs/',
+        imageUrl: 'flutterdevs.jpg',
+      }
+    - {
+        name: 'GDG Miami',
+        description: 'GDG Miami',
+        link: 'https://www.meetup.com/GDG-Miami/',
+        imageUrl: 'gdg-logo.svg',
+      }

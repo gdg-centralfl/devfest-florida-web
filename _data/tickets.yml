@@ -1,35 +1,78 @@
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsTitle: 'Tickets'
+ticketsInfo: 'Tickets grant access to all conference sessions, breakouts, code labs, coffee brakes, lunch. Accommodation is NOT included in the ticket price. Ticket vendor fees may be extra.'
 ticketTypes:
--
-  name: "Early bird Ticket"
-  price: "$150"
-  featured: true
-  ticketsNumber: "100"
-  buyButtonLink: "https://devfestflorida.eventbrite.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Early bird discount", "Exclusive swag", "Full day of talks", "Lunch & snacks", "Swag & Prizes"]
-  validFrom: "2018-08-15T00:00"
-  validThrough: "2018-09-15T00:00"
-  disabled: true
-  ended: false
--
-  name: "Regular Ticket"
-  price: "$175"
-  ticketsNumber: "200"
-  buyButtonLink: "https://devfestflorida.eventbrite.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Regular ticket price", "Full day of talks", "Lunch & snacks", "Swag & Prizes"]
-  validFrom: "2018-09-15T00:00"
-  validThrough: "2018-11-31T00:00"
-  disabled: true
--
- name: "Last minute Ticket"
- price: "$200"
- ticketsNumber: "50"
- buyButtonLink: "https://devfestflorida.eventbrite.com/"
- buyButtonText: "Buy Now"
- ticketContentList: ["Regular ticket price", "Full day of talks", "Lunch & snacks", "Swag & Prizes"]
- validFrom: "2018-12-01T00:00"
- validThrough: "2019-01-07T11:59"
- disabled: true
+  - {
+      name: 'Super Early Bird',
+      price: '$100',
+      featured: true,
+      ticketsNumber: '100',
+      buyButtonLink: 'https://devfestflorida-orlando.eventbrite.com/?aff=site',
+      buyButtonText: 'Sold Out',
+      ticketContentList:
+        [
+          'Super Early Bird Discount',
+          'Exclusive Swag',
+          'Full day of talks',
+          'Lunch & snacks',
+          'Swag & Prizes',
+        ],
+      validFrom: '2018-08-15T00:00',
+      validThrough: '2018-09-15T00:00',
+      disabled: true,
+      ended: true,
+    }
+  - {
+      name: 'Early Bird',
+      price: '$125',
+      featured: true,
+      ticketsNumber: '100',
+      buyButtonLink: 'https://devfestflorida-orlando.eventbrite.com/?aff=site',
+      buyButtonText: 'Sold Out',
+      ticketContentList:
+        [
+          'Early Bird Discount',
+          'Exclusive Swag',
+          'Full day of talks',
+          'Lunch & snacks',
+          'Swag & Prizes',
+        ],
+      validFrom: '2018-09-15T00:00',
+      validThrough: '2018-10-15T00:00',
+      disabled: true,
+      ended: true,
+    }
+  - {
+      name: 'Community Friend',
+      price: '$175',
+      ticketsNumber: '200',
+      buyButtonLink: 'https://devfestflorida-orlando.eventbrite.com/?aff=site',
+      buyButtonText: 'Buy Now',
+      ticketContentList:
+        [
+          'Regular ticket price',
+          'Full day of talks',
+          'Lunch & snacks',
+          'Swag & Prizes',
+        ],
+      validFrom: '2018-09-15T00:00',
+      validThrough: '2018-11-31T00:00',
+      disabled: false,
+      ended: false,
+    }
+  - {
+      name: 'Faithful Supporter',
+      price: '$225',
+      ticketsNumber: '50',
+      buyButtonLink: 'https://devfestflorida-orlando.eventbrite.com/?aff=site',
+      buyButtonText: 'Buy Now',
+      ticketContentList:
+        [
+          'Regular ticket price',
+          'Full day of talks',
+          'Lunch & snacks',
+          'Swag & Prizes',
+        ],
+      validFrom: '2018-12-01T00:00',
+      validThrough: '2019-01-19T11:59',
+      disabled: false,
+    }

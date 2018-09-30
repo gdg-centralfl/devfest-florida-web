@@ -21,6 +21,23 @@ footerBlocks:
           subtext: 'Sponsor today and help DevFest Florida pay for speaker travel, provide tickets to those that cannot afford them, throw a fantastic after conference party, give away cool swag & prizes',
           imgUrl: '/img/logos/click-to-sponsor.jpg',
         }
+
+  - title: 'Past DevFest'
+    links:
+      - {
+          link: 'https://www.youtube.com/playlist?list=PLlaUSfsupwnA7CFoFAK1qlc_O4SsyoTtg',
+          text: '2017 Talks',
+        }
+      - { link: '/2017/speakers/', text: '2017 Speakers' }
+      - {
+          link: 'https://www.youtube.com/playlist?list=PL97olfUJku70SPHrkyrqdPP9YGBTdoODa',
+          text: '2016 Talks',
+        }
+      - { link: '/2016/speakers/', text: '2016 Speakers' }
+      - {
+          link: 'https://photos.google.com/share/AF1QipNlsSgqPBejlyb4HxZqwHbiJPl7OHAnavZa8VsF1K_vrzpicysOSfqJmWhr8ze0Ww?key=U21kQjNHYUFJZHhQRGJhY0tNaHN3a0ROSGl0SWNn',
+          text: 'Photo Album',
+        }
   - title: 'Contact Us'
     links:
       - {
@@ -33,8 +50,16 @@ footerBlocks:
               text: '<i class="fa fa-google-plus" aria-hidden="true"></i>',
             }
           - {
-              link: 'https://twitter.com/devfestflorida',
+              link: 'https://www.youtube.com/channel/UCiCCw4uylpTWoRCF68KNRBg',
+              text: '<i class="fa fa-youtube" aria-hidden="true"></i>',
+            }
+          - {
+              link: 'https://twitter.com/gdgcentralfl',
               text: '<i class="fa fa-twitter" aria-hidden="true"></i>',
+            }
+          - {
+              link: 'https://instagram.com/devfestflorida',
+              text: '<i class="fa fa-instagram" aria-hidden="true"></i>',
             }
           - {
               link: 'https://facebook.com/devfestflorida',
