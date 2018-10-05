@@ -12,25 +12,25 @@ airports:
 
 hotels:
   - {
-	name: 'Kapp and Kappy B&B',
-	description: 'Set in a century-old cottage in a residential neighborhood, this quaint bed-and-breakfast is a 12-minute walk from Kissimmee Lakefront Park and a 14-minute walk from the buses at Lynx Kissimmee Intermodal Station. With decor ranging from traditional to offbeat, rooms offer free Wi-Fi, flat-screen TVs and minifridges, plus Keurig coffeemakers. Breakfast is served in a casual dining room. Other amenities include a living room and a wraparound porch with rocking chairs.',
-    specialInstructions: ' DEVFEST19 gives 35% off room nights during the month of January.  About a 23 min drive to the Contemporary ',
-	address: '21 N Clyde Ave., Kissimmee, FL 34741',
-	imgUrl: 'img/travelinfo/kapp&kappy.jpg',
-	link: 'http://www.kappandkappy.com/',
+  name: 'Kapp and Kappy B&B',
+  description: 'Set in a century-old cottage in a residential neighborhood, this quaint bed-and-breakfast is a 12-minute walk from Kissimmee Lakefront Park and a 14-minute walk from the buses at Lynx Kissimmee Intermodal Station. With decor ranging from traditional to offbeat, rooms offer free Wi-Fi, flat-screen TVs and minifridges, plus Keurig coffeemakers. Breakfast is served in a casual dining room. Other amenities include a living room and a wraparound porch with rocking chairs.',
+  specialInstructions: ' DEVFEST19 gives 35% off room nights during the month of January.  About a 23 min drive to the Contemporary ',
+  address: '21 N Clyde Ave., Kissimmee, FL 34741',
+  imgUrl: 'img/travelinfo/kapp&kappy.jpg',
+  link: 'http://www.kappandkappy.com/',
   }
   - {
-	name: 'Disney''s Pop Century Resort',
-	description: 'Experience the unforgettable fads of the 1950s through the 1990s all over again. From yo-yos and Play-Doh® to Rubik's Cube® and rollerblades, this Resort hotel salutes the timeless fashions, catch phrases, toys and dances that captivated the world through the decades. ',
-	specialInstructions: '<b>Group Name:</b> DevFest Florida 2019 Room Block  <b>Group Code:</b> G0764990A <b>The last day to book your room using the Group Discount is Wednesday, December 19, 2018</b>',
-	address: '1050 Century Drive, Lake Buena Vista, Florida 32830',
-	imgUrl: 'img/disney-popcentury-resort.jpg',
-	link: 'https://book.passkey.com/go/DevFestFlorida2019',
+  name: 'Disney''s Pop Century Resort',
+  description: 'Experience the unforgettable fads of the 1950s through the 1990s all over again. From yo-yos and Play-Doh® to Rubik''s Cube® and rollerblades, this Resort hotel salutes the timeless fashions, catch phrases, toys and dances that captivated the world through the decades. ',
+  specialInstructions: '<b>Conference Website:</b> https://www.mydisneygroup.com/devfest19 <b>Group Name:</b> DevFest Florida 2019 Room Block  <b>Group Code:</b> G0764990A <b>The last day to book your room using the Group Discount is Wednesday, December 19, 2018</b>',
+  address: '1050 Century Drive, Lake Buena Vista, Florida 32830',
+  imgUrl: 'img/disney-popcentury-resort.jpg',
+  link: 'https://book.passkey.com/go/DevFestFlorida2019',
   }
 amenities:
 - {
-	name: 'Disney Theme Park Tickets',
-	description: 'Don''t miss your opportunity to spend a few extra days creating magical memories by taking advantage of specially priced Theme Park tickets to make the most of your visit!',
-imgUrl: 'img/theme-parks.jpg',
-link: 'https://www.mydisneygroup.com/devfest19',
+  name: 'Disney Theme Park Tickets',
+  description: 'Don''t miss your opportunity to spend a few extra days creating magical memories by taking advantage of specially priced Theme Park tickets to make the most of your visit!',
+  imgUrl: 'img/theme-parks.jpg',
+  link: 'https://www.mydisneygroup.com/devfest19',
 }
