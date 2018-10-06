@@ -8,8 +8,8 @@
   social:
     - { name: 'twitter', link: 'http://www.twitter.com/bouncingsheep' }
     - {
-        name: 'linkedin',
-        link: 'https://www.linkedin.com/in/emily-fortuna-30a201b9/',
+        name: "linkedin",
+        link: "https://www.linkedin.com/in/emily-fortuna-30a201b9/"
       }
     - { name: 'github', link: 'https://github.com/efortuna' }
   complexity: 'Intermediate'
@@ -347,3 +347,146 @@ She is active in her local community, doing some volunteer work for Camp Ohana (
   complexity: "Intermediate"
   shortBio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley)."
   bio: "Nitya is a software architect and polyglot with ~20 years of industry experience in research, development and startup contexts. She is a PhD, an innovator (11 patents, 20+ filings), an educator and a community organizer (GDG NYC & GDG Hudson Valley). She helps architect and build mobile web solutions for early stage startups, runs study camps for workforce retraining & plans to launch her first voice product this fall. She is a frequent tech conference speaker but is happiest talking to kids about science, coding, curiosity and self-confidence."
+
+-
+  id: 22
+  name: "Dan Baran"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/dan_baran.jpg"
+  company: "Sun Chemical"
+  companyUrl: "../img/logos/sunchemical.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/defragger"}
+  complexity: "Beginner"
+  shortBio: "Dan Baran is the lead developer at Sun Chemical. He is focused on developing and maintaining their websites and apps. He is also the organizer of GDG Chicago. Technical related passions include data, data visualizations and has recently dug in to the world of Machine Learning."
+  bio: "Dan Baran is the lead developer at Sun Chemical. He is focused on developing and maintaining their websites and apps. He is also the organizer of GDG Chicago. Technical related passions include data, data visualizations and has recently dug in to the world of Machine Learning."
+
+-
+  id: 23
+  name: "Elizabeth Tiller"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/elizabeth_tiller.jpg"
+  company: "Mad Mobile"
+  companyUrl: "../img/logos/madmobile.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/LizTiller"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/elizabethtiller/" }
+    - {name: "github", link: "https://github.com/lizthrilla" }
+  complexity: "Beginner"
+  shortBio: "Liz is a recovering film academic turned javascript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. She finished the front end engineering program at The Iron Yard in February 2017 and she is passionate about web accessibility, over analyzing movies, her cats, and bellydance."
+  bio: "Liz is a recovering film academic turned javascript developer and the current Tampa Bay City Organizer for Tech Ladies and co-organizer of Suncoast Developers Guild Jr, which provides free kids coding classes. She finished the front end engineering program at The Iron Yard in February 2017 and she is passionate about web accessibility, over analyzing movies, her cats, and bellydance."
+
+-
+  id: 24
+  name: "Eva Sofianos"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/eva_sofianos.jpg"
+  company: "GDG Bronx"
+  companyUrl: "../img/logos/gdgbronx.jpg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/evasofianos"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eva-sofianos-a48a7047/" }
+  complexity: "Beginner"
+  shortBio: "Eva is ​an ​energetic, ​disciplined ​and ​highly ​motivated ​individual ​with ​over ​a ​decade ​of ​industry ​experience ​in IT, ​diligently ​leading ​teams ​to ​success. In the past few years she has made her transition from industry to higher education, and is now a faculty member in the ​Computer ​Science ​department at ​Lehman ​College, CUNY. She ​also co-founded ​a ​technical ​training ​program ​that ​provides ​trainees ​with ​real ​world ​hands ​on ​experience ​by ​guiding ​them ​through ​solution development ​for ​small ​businesses. On evenings and weekends she organizes GDG ​Bronx and explores upcoming technologies with her community. In her spare time Eva enjoys outdoor sports and activities."
+  bio: "Eva is ​an ​energetic, ​disciplined ​and ​highly ​motivated ​individual ​with ​over ​a ​decade ​of ​industry ​experience ​in IT, ​diligently ​leading ​teams ​to ​success. In the past few years she has made her transition from industry to higher education, and is now a faculty member in the ​Computer ​Science ​department at ​Lehman ​College, CUNY. She ​also co-founded ​a ​technical ​training ​program ​that ​provides ​trainees ​with ​real ​world ​hands ​on ​experience ​by ​guiding ​them ​through ​solution development ​for ​small ​businesses. On evenings and weekends she organizes GDG ​Bronx and explores upcoming technologies with her community. In her spare time Eva enjoys outdoor sports and activities."
+
+-
+  id: 25
+  name: "Faisal Abid"
+  keynote: false
+  rockstar: true
+  gde: true
+  thumbnailUrl: "../img/people/faisal_abid.jpg"
+  company: "Zoom.ai"
+  companyUrl: "../img/logos/zoomai.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/FaisalAbid"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/faisalabid" }
+  complexity: "Beginner"
+  shortBio: "Faisal is a Google Developer Expert, Entrepreneur, and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack. Currently, you can find Faisal working on mobile applications in Flutter, building services with Tensorflow and writing backends in Dart or Node.js."
+  bio: "Faisal is a Google Developer Expert, Entrepreneur, and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack. Currently, you can find Faisal working on mobile applications in Flutter, building services with Tensorflow and writing backends in Dart or Node.js."
+
+-
+  id: 26
+  name: "Grant Timmerman"
+  keynote: false
+  rockstar: true
+  gde: false
+  thumbnailUrl: "../img/people/grant_timmerman.jpg"
+  company: "Google"
+  companyUrl: "../img/logos/google.svg"
+  social:
+    - {name: "twitter", link: "https://twitter.com/granttimmerman"}
+    - {name: "github", link: "https://github.com/grant" }
+  complexity: "Intermediate"
+  shortBio: "Grant is a developer platform engineer at Google where he leads open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time."
+  bio: "Grant is a developer platform engineer at Google where he leads open source for G Suite APIs. He loves Node, GitHub, and plays the alto saxophone in his spare time."
+
+-
+  id: 27
+  name: "Ian Thomas"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/ian_thomas.jpg"
+  company: "PowerDMS"
+  companyUrl: "../img/logos/powerdms.png"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ian-thomas-68848015/" }
+    - {name: "github", link: "https://github.com/toxicbakery/" }
+  complexity: "Intermediate"
+  shortBio: "Ian is an Android developer at PowerDMS, serial speaker, and Code for Orlando advocate. Ian focuses his efforts on developing libraries and debating application architecture."
+  bio: "Ian is an Android developer at PowerDMS, serial speaker, and Code for Orlando advocate. Ian focuses his efforts on developing libraries and debating application architecture."
+
+-
+  id: 28
+  name: "Kevin Galligan"
+  keynote: false
+  rockstar: true
+  gde: false
+  thumbnailUrl: "../img/people/kevin_galligan.jpg"
+  company: "Touchlab"
+  companyUrl: "../img/logos/touchlab.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/kpgalligan"}
+    - {name: "blog", link: "https://medium.com/@kpgalligan" }
+  complexity: "Intermediate"
+  shortBio: "President of Touchlab. Have been coding Android since before the G1. We run the big Android meetup in NYC, and Droidcon NYC. Currently obsessed with platform convergence/multiplatform topics."
+  bio: "President of Touchlab. Have been coding Android since before the G1. We run the big Android meetup in NYC, and Droidcon NYC. Currently obsessed with platform convergence/multiplatform topics."
+
+-
+  id: 29
+  name: "Luxi Chen"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/luxi_chen.jpg"
+  company: "Google"
+  companyUrl: "../img/logos/google.svg"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luxichen" }
+  complexity: "Intermediate"
+  shortBio: ""
+  bio: ""
+
+-
+  id: 30
+  name: "Matt Fedorovich"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/matt_fedorovich.jpg"
+  company: "Insight Digital Innovation"
+  companyUrl: "../img/logos/insight.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/MattFedorovich"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/matt-fedorovich-45757632/" }
+  complexity: "Intermediate"
+  shortBio: "With years of experience in AR/VR/MR and 10 years in game development, Matt leads Insight Enterprises Digital Innovation (formerly Cardinal Solutions) Immersive application development for enterprise and consumer markets. Matt has an extensive portfolio including more than 30 XR projects, has become a Mixed Reality partner with Microsoft and contributes to AR/VR/MR SDKs weekly."
+  bio: "With years of experience in AR/VR/MR and 10 years in game development, Matt leads Insight Enterprises Digital Innovation (formerly Cardinal Solutions) Immersive application development for enterprise and consumer markets. Matt has an extensive portfolio including more than 30 XR projects, has become a Mixed Reality partner with Microsoft and contributes to AR/VR/MR SDKs weekly."
