@@ -490,3 +490,87 @@ She is active in her local community, doing some volunteer work for Camp Ohana (
   complexity: "Intermediate"
   shortBio: "With years of experience in AR/VR/MR and 10 years in game development, Matt leads Insight Enterprises Digital Innovation (formerly Cardinal Solutions) Immersive application development for enterprise and consumer markets. Matt has an extensive portfolio including more than 30 XR projects, has become a Mixed Reality partner with Microsoft and contributes to AR/VR/MR SDKs weekly."
   bio: "With years of experience in AR/VR/MR and 10 years in game development, Matt leads Insight Enterprises Digital Innovation (formerly Cardinal Solutions) Immersive application development for enterprise and consumer markets. Matt has an extensive portfolio including more than 30 XR projects, has become a Mixed Reality partner with Microsoft and contributes to AR/VR/MR SDKs weekly."
+
+-
+  id: 31
+  name: "Allen Firstenberg"
+  keynote: false
+  rockstar: true
+  gde: false
+  thumbnailUrl: "../img/people/allen_firstenberg.jpg"
+  company: "Objective Consulting"
+  companyUrl: "../img/logos/objective.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/afirstenberg"}
+    - {name: "googleplus", link: "https://plus.google.com/101852559274654726533" }
+  complexity: "Intermediate"
+  shortBio: "By day, Allen is a professional software developer and consultant, helping clients understand how they can use technology to make their work easier and their customers happier. But his not-so-secret identity is as a Google Developer Expert for the Assistant - helping developers make awesome Actions by creating new tools, such as the multivocal library, answering questions on Stack Overflow, and doing presentations... kinda like this one. In his lack of spare time he likes photography and science fiction."
+  bio: "By day, Allen is a professional software developer and consultant, helping clients understand how they can use technology to make their work easier and their customers happier. But his not-so-secret identity is as a Google Developer Expert for the Assistant - helping developers make awesome Actions by creating new tools, such as the multivocal library, answering questions on Stack Overflow, and doing presentations... kinda like this one. In his lack of spare time he likes photography and science fiction."
+
+# -
+#   id: 32
+#   name: "Betty Pierce"
+#   keynote: false
+#   rockstar: false
+#   gde: false
+#   thumbnailUrl: "../img/people/"
+#   company: ""
+#   companyUrl: "../img/logos/"
+#   social:
+#     - {name: "twitter", link: ""}
+#     - {name: "linkedin", link: "" }
+#     - {name: "blog", link: "" }
+#   complexity: ""
+#   shortBio: ""
+#   bio: ""
+
+-
+  id: 33
+  name: "Michael Traverso"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/"
+  company: "Traversoft"
+  companyUrl: "../img/logos/"
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "" }
+    - {name: "blog", link: "" }
+  complexity: ""
+  shortBio: ""
+  bio: ""
+
+-
+  id: 34
+  name: "Mike Herchel"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/"
+  company: ""
+  companyUrl: "../img/logos/"
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "" }
+    - {name: "blog", link: "" }
+  complexity: ""
+  shortBio: ""
+  bio: ""
+
+-
+  id: 35
+  name: "Sivamuthu Kumar"
+  keynote: false
+  rockstar: false
+  gde: false
+  thumbnailUrl: "../img/people/"
+  company: ""
+  companyUrl: "../img/logos/"
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: "" }
+    - {name: "blog", link: "" }
+  complexity: ""
+  shortBio: ""
+  bio: ""
