@@ -1,3 +1,35 @@
 name: 'DevFest Florida'
 eventDate: '2019-01-19T00:00'
 slogan: "Florida's most magical developer conference. Held steps from the Magic Kingdom in Walt Disney World and offering over 30 expert speaker talks on all the hot topics in technology"
+hotelBlockUrl: https://www.mydisneygroup.com/devfest19
+travelElements:
+- {
+name: 'Disney''s Pop Century Resort',
+description: 'Experience the unforgettable fads of the 1950s through the 1990s all over again. From yo-yos and Play-Doh® to Rubik''s Cube® and rollerblades, this Resort hotel salutes the timeless fashions, catch phrases, toys and dances that captivated the world through the decades. ',
+specialInstructions: 'The last day to book your room using the <b>Group Discount Code</b> <a href="https://www.mydisneygroup.com/devfest19" target="_blank" style="none">here</a> is Wednesday, December 19, 2018',
+address: '1050 Century Drive, Lake Buena Vista, Florida 32830',
+imgUrl: 'img/travelinfo/disney-popcentury-resort.jpg',
+link: 'https://book.passkey.com/go/DevFestFlorida2019',
+}
+- {
+  name: 'Kapp and Kappy B&B',
+  description: 'Set in a century-old cottage in a residential neighborhood, this quaint bed-and-breakfast is a 12-minute walk from Kissimmee Lakefront Park and a 14-minute walk from the buses at Lynx Kissimmee Intermodal Station. With decor ranging from traditional to offbeat, rooms offer free Wi-Fi, flat-screen TVs and minifridges, plus Keurig coffeemakers. Breakfast is served in a casual dining room. Other amenities include a living room and a wraparound porch with rocking chairs.',
+  specialInstructions: 'Use sponsor''s discount code <b>DEVFEST19</b> to get 35%  off room nights during the month of January.',
+  address: '21 N Clyde Ave., Kissimmee, FL 34741',
+  imgUrl: 'img/travelinfo/kapp&kappy.jpg',
+  link: 'http://www.kappandkappy.com/',
+}
+- {
+  name: 'Disney Theme Park Tickets',
+  specialInstructions: 'Join us Friday, January 18, 2019 for a <b>pre-conference fireworks celebration</b> at Magic Kingdom. <b>More info to be announced to all conference ticket holders. Park tickets sold separately by <a href="https://www.mydisneygroup.com/devfest19" target="_blank" style="none">Disney</a></b>',
+  description: 'Don''t miss your opportunity to spend a few extra days creating magical memories by taking advantage of specially priced Theme Park tickets to make the most of your visit!',
+  imgUrl: 'img/travelinfo/theme-parks.png',
+  link: 'https://www.mydisneygroup.com/devfest19',
+}
+- {
+  name: 'Orlando International Airport',
+  description: 'Orlando International Airport is a major public airport located six miles southeast of Downtown Orlando, Florida, United States. In 2017, MCO handled 44,611,265 passengers, making it the busiest airport in the state of Florida and the eleventh-busiest airport in the United States.',
+  imgUrl: 'img/travelinfo/orlando-airport.jpg',
+  code: 'MCO',
+}
+

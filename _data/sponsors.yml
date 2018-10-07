@@ -36,3 +36,10 @@
         link: 'http://mozilla.org/',
         imageUrl: 'mozilla.svg',
       }
+    - {
+        name: 'Kapp & Kappy',
+        description: 'Kapp and Kappy Bed & Breakfast',
+        link: 'http://www.kappandkappy.com/',
+        imageUrl: 'kappandkappy-logo.jpg',
+		width: "45%"
+      }
