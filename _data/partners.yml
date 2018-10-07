@@ -5,10 +5,26 @@
         description: 'Flutter Developers Group',
         link: 'https://meetup.com/flutterdevs/',
         imageUrl: 'flutterdevs.jpg',
+		width: "50%"
+      }
+    - {
+        name: 'Girl Develop It',
+        description: 'Girl Develop It',
+        link: 'https://www.girldevelopit.com/chapters/orlando',
+        imageUrl: 'gdi.jpg',
+		width: "50%"
       }
     - {
         name: 'GDG Miami',
         description: 'GDG Miami',
         link: 'https://www.meetup.com/GDG-Miami/',
         imageUrl: 'gdg-logo.svg',
+		width: "50%"
+      }
+    - {
+        name: 'Space Apps Orlando',
+        description: 'Space Apps Orlando',
+        link: 'https://2018.spaceappschallenge.org/',
+        imageUrl: 'spaceapps.jpg',
+		width: "50%"
       }
