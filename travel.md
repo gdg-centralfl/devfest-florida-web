@@ -1,5 +1,5 @@
 ---
-layout: ribbon-page
+layout: plain-page
 permalink: /travel/
 title: DevFest Florida Travel
 ---
