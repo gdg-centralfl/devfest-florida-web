@@ -547,33 +547,33 @@ She is active in her local community, doing some volunteer work for Camp Ohana (
   shortBio: "Hi, I’m Siva, Working as Architect in Computer Enterprises Inc, delivering Mobile and Cloud solutions. I offer talks to technical groups on ML and AI solutions to motivate them to get involved in it and empowering them to impact change in the world by sharing."
   bio: "Hi, I’m Siva, Working as Architect in Computer Enterprises Inc, delivering Mobile and Cloud solutions. I offer talks to technical groups on ML and AI solutions to motivate them to get involved in it and empowering them to impact change in the world by sharing."
 
-# -
-#   id: 36
-#   name: "Betty Pierce"
-#   keynote: false
-#   rockstar: false
-#   gde: false
-#   thumbnailUrl: "../img/people/betty_pierce.jpg"
-#   company: "Agile Thought"
-#   companyUrl: "../img/logos/agilethought.png"
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/UIBusyBetty"}
-#   complexity: "Beginner"
-#   shortBio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
-#   bio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
+-
+  id: 36
+  name: "Betty Pierce"
+  keynote: false
+  rockstar: true
+  gde: false
+  thumbnailUrl: "../img/people/betty_pierce.jpg"
+  company: "Agile Thought"
+  companyUrl: "../img/logos/agilethought.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/UIBusyBetty"}
+  complexity: "Beginner"
+  shortBio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
+  bio: "A steal drumming, beer drinking, barefoot running, mama who went from professional musician to coding for cash. Betty is a Sr. UI/UX Developer at Agile Thought with over 18 years of coding experience in Tampa Florida. Betty is also director of Women Who Code Tampa and Girl Develop It (GDI) Instructor. She shares her passion for coding and emerging tech by speaking at conferences and meetups. Betty most recently presented at Walt Disney World #DevFestFL and at #UXDSummit in Ft Lauderdale. She has worked in varied industries from government to advertising and now consults with Agile Thought. She builds everything from enterprise apps in Angular or React to UX to small business Wordpress sites and HTML5 games. This happy mama of five can be found cooking, cleaning and swinging kettlebells in her spare time."
 
-# -
-#   id: 37
-#   name: "Sam Edwards"
-#   keynote: false
-#   rockstar: false
-#   gde: true
-#   thumbnailUrl: "../img/people/sam_edwards.jpg"
-#   company: "Capital One"
-#   companyUrl: "../img/logos/capitalone.png"
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/HandstandSam"}
-#     - {name: "blog", link: "https://handstandsam.com/"}
-#   complexity: "Intermediate"
-#   shortBio: "Sam is a Lead Android Engineer at Capital One, Google Developer Expert for Android and Instructor at Caster.IO. He has been working with Android since 2011 and has over 14 years of professional experience with software development. Check out https://handstandsam.com where he shares tips and tricks about Android and software development."
-#   bio: "Sam is a Lead Android Engineer at Capital One, Google Developer Expert for Android and Instructor at Caster.IO. He has been working with Android since 2011 and has over 14 years of professional experience with software development. Check out https://handstandsam.com where he shares tips and tricks about Android and software development."
+-
+  id: 37
+  name: "Sam Edwards"
+  keynote: false
+  rockstar: false
+  gde: true
+  thumbnailUrl: "../img/people/sam_edwards.jpg"
+  company: "Capital One"
+  companyUrl: "../img/logos/capitalone.png"
+  social:
+    - {name: "twitter", link: "https://twitter.com/HandstandSam"}
+    - {name: "blog", link: "https://handstandsam.com/"}
+  complexity: "Intermediate"
+  shortBio: "Sam is a Lead Android Engineer at Capital One, Google Developer Expert for Android and Instructor at Caster.IO. He has been working with Android since 2011 and has over 14 years of professional experience with software development. Check out https://handstandsam.com where he shares tips and tricks about Android and software development."
+  bio: "Sam is a Lead Android Engineer at Capital One, Google Developer Expert for Android and Instructor at Caster.IO. He has been working with Android since 2011 and has over 14 years of professional experience with software development. Check out https://handstandsam.com where he shares tips and tricks about Android and software development."
