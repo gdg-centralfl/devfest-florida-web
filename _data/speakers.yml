@@ -199,7 +199,7 @@
   company: 'Comcast'
   companyUrl: 'img/logos/comcast.png'
   social:
-    - { name: 'twitter', link: 'chiefcll' }
+    - { name: 'twitter', link: 'https://twitter.com/chiefcll' }
     - { name: 'blog', link: 'https://www.chiefhacker.com/' }
   complexity: 'Beginner'
   shortBio: 'Chris has worked at Comcast since 2007 -- currently as a Distinguished Engineer. He enjoys building/motivating teams and ramping up new projects including XFINITY Home and XFINITY xFi using the latest patterns and web primitives. Besides coding in Javascript, he loves spending time with his wife and two children and helping out in the community.'
