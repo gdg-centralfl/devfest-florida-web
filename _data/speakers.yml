@@ -145,7 +145,6 @@
   name: 'Santosh Hari'
   rockstar: true
   gde: false
-  slides: 18
   thumbnailUrl: '/img/people/santosh_hari.jpg'
   company: 'Nebbia Technology'
   companyUrl: 'img/logos/nebbia.png'
@@ -366,7 +365,6 @@
   name: 'Etienne Caron-Petit-Pas'
   rockstar: false
   gde: true
-  slides: 38904028
   thumbnailUrl: '/img/people/etienne_caron.jpg'
   company: 'Shopify'
   companyUrl: 'img/logos/shopify.png'
