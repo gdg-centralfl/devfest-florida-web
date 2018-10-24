@@ -290,8 +290,8 @@
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/luxichen" }
   complexity: "Intermediate"
-  shortBio: ""
-  bio: ""
+  shortBio: "Luxi Chen is an interaction designer at Google"
+  bio: "Luxi Chen is an interaction designer at Google"
 
 - id: 20
   name: "Michael Prentice"
