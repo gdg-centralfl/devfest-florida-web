@@ -44,3 +44,21 @@
         description: 'Organizer',
         link: 'https://www.meetup.com/gdg-central-florida/',
       }
+    - {
+        name: 'Anita Kirkovska',
+        imageUrl: 'anita.jpg',
+        description: 'Volunteer',
+        link: 'https://www.linkedin.com/in/anitakirkovska/',
+      }
+    - {
+        name: 'Marina Trajkovska',
+        imageUrl: 'marina.jpg',
+        description: 'Volunteer',
+        link: 'https://twitter.com/marinatrajk',
+      }
+    - {
+        name: 'Erik Willsey',
+        imageUrl: 'erik.jpg',
+        description: 'Volunteer',
+        link: 'https://www.linkedin.com/in/erik-w-9b643355',
+      }
