@@ -28,6 +28,12 @@
         link: 'http://www.capgemini.com',
         imageUrl: 'capgemini.svg',
       }
+    - {
+		name: "JP Morgan Chase & Co.",
+		description: "JP Morgan Chase & Co.",
+		link: "https://www.jpmorganchase.com/",
+		imageUrl: "jpmorgan.svg",
+	}
 - group: 'Copper Sponsors'
   elements:
     - {
