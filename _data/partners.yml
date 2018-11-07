@@ -28,3 +28,10 @@
         imageUrl: 'spaceapps.jpg',
 		width: "50%"
       }
+    - {
+        name: 'Thunder Nerds',
+        description: 'Space Apps Orlando',
+        link: 'https://www.thundernerds.io',
+        imageUrl: 'thundernerds.svg',
+		width: "50%"
+      }
